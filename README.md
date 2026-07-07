@@ -9,9 +9,7 @@ This repository contains a Power Bi dashboard of an E-commerce store to answer q
 
 ![dashboard preview](https://github.com/avishek09/E-Commerce-Store-Analysis-/assets/75924699/5151c585-882b-4db4-b324-a8cc63256fb4)
 
-## Installation
 
-To run this project on your machine you need to install <a href="https://powerbi.microsoft.com/en-us/downloads/">Microsoft Power Bi</a>.
 
 <!-- ## Usage
 
